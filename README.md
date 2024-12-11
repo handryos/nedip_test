@@ -42,7 +42,7 @@ The choice of remaining tools is at your discretion.
 
 7 - Tips
 
-1. [ ] There is no need to reinvent the wheel. You can use a Material UI 5 already implemented components to help in your development process.
+1. [ ] There is no need to reinvent the wheel. The front-end can be simple and you can use a Material UI 5 already implemented components to help in your development process.
 
 </br>
 
