@@ -46,20 +46,6 @@ The choice of remaining tools is at your discretion.
 
 </br>
 
-
-## Evaluation Criteria
-
-The items listed above will have different weights in the evaluation process. Each one of them will be evaluated as "Not Implemented", "Implemented with Issues", "Implemented", or "Implemented with Excellence". Use your judgement to prioritize the requirements you will implement in the time you have available. 
-
-In general we will be looking for the following:
-
-1. [ ] Anyone should be able to follow the instructions and run the application.
-1. [ ] User stories were implemented according to the functional requirements.
-1. [ ] Ability to refactor existing code (if applicable).
-1. [ ] Adherence to best practices in front-end development.
-1. [ ] Problem-solving skills and ability to handle ambiguity.
-1. [ ] Code quality, readability, and maintainability.
-
 ## Ready to Begin the Challenges?
 
 1. [ ] Fork this repository to your own Github account.
